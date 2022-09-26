@@ -1,8 +1,8 @@
 ### Hi there, I´m David Avendaño👋
 
 ##😉👨‍💻Estudiante Ingeníeria de sistemas😉👨‍💻
--
--
+- Universidad ean.
+- Segundo Semestre.   
 -
 -
 -
