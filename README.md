@@ -5,8 +5,11 @@
 - ⚡ En proceso para ser desarrollador web
 - 🎶 Amante de la música
 - 💪 Resiliencia
+<img align= "left" alt="programación" src="https://user-images.githubusercontent.com/114430863/192404646-c1ab30de-7165-4e6e-8403-2c8089072bba.png" />
 
-<!--
+  
+### Languages and Tools:
+
 **DavidAvenda05/DavidAvenda05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
