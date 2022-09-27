@@ -2,7 +2,9 @@
 
 ## 😉👨‍💻Estudiante Ingeníeria de sistemas😉👨‍💻
 - 🌱 Universidad ean
-- ⚡ Gusto por el desarrollo
+- ⚡ En proceso hacía mi sueño (desarrollador web)
+- 🎶 Amante de la música
+- 💪 Resiliencia
 
 <!--
 **DavidAvenda05/DavidAvenda05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
