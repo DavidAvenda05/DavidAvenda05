@@ -2,7 +2,7 @@
 
 ## 😉👨‍💻Estudiante Ingeníeria de sistemas😉👨‍💻
 - 🌱 Universidad ean
-- ⚡ En proceso hacía mi sueño (desarrollador web)
+- ⚡ En proceso para ser desarrollador web
 - 🎶 Amante de la música
 - 💪 Resiliencia
 
