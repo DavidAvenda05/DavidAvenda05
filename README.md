@@ -16,7 +16,7 @@
 <p>
 </a>
   <a href="https://instagram.com/juand.005" target="blank">
-    <img align="center" src="https://as1.ftcdn.net/v2/jpg/02/99/18/12/1000_F_299181298_RUwHjChnewzBVkop0K0AxzguZxpifm0x.jpg" alt="juand.005" height="28px" width="28px" />
+    <img align="center" src="https://as1.ftcdn.net/v2/jpg/02/99/18/12/1000_F_299181298_RUwHjChnewzBVkop0K0AxzguZxpifm0x.jpg" alt="juand.005" height="50px" width="50px" />
          </a>
    </p>      
     
